@@ -4,11 +4,11 @@ Este é um projeto simples de um relógio digital implementado em HTML, CSS e Ja
 
 ## Como Funciona
 
-O relógio exibe a hora atual em um formato digital simples. A característica única deste projeto é a troca automática da imagem de fundo com base na hora do dia:
+O relógio exibe a hora atual em um formato digital simples. A característica única deste projeto é a troca automática da imagem de fundo com base na hora do dia, as imagens são retiradas do jogo Minecraft:
 
-- **Manhã:** Imagem de um nascer do sol ou paisagem matinal.
-- **Tarde:** Imagem de uma paisagem ensolarada ou céu azul.
-- **Noite:** Imagem de um pôr do sol, lua ou paisagem noturna.
+- **Manhã:** Imagem do dia claro.
+- **Tarde:** Imagem do pôr do Sol.
+- **Noite:** Imagem da noite.
 
 ## Como Utilizar
 
