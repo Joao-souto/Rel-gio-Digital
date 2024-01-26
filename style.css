@@ -36,6 +36,17 @@ body{
 }
 
 #horas, #minutos, #segundos{
-    font-size: 10vh;
+    font-size: 4.5em;
     margin-bottom: 2vh;
+}
+
+@media(max-width:999px){
+    #relogio{
+        flex-direction: column;
+    }
+
+    .cx{
+        padding: 4vh;
+        margin: 1vh;
+    }
 }
