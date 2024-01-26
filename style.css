@@ -13,14 +13,12 @@ body{
     height: 100vh;
     width: 100vw;
 }
-
 #relogio{
     display: flex;
     background-color: gray;
     border-radius: 10px;
     box-shadow: 5px 5px 30px gray;
 }
-
 .cx{
     display: flex;
     flex-direction: column;
@@ -34,7 +32,6 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 30px black;
 }
-
 #horas, #minutos, #segundos{
     font-size: 4.5em;
     margin-bottom: 2vh;
@@ -45,11 +42,9 @@ body{
         flex-direction: column;
         padding: 1vh;
     }
-
     span{
         font-size: 2.5vh;
     }
-
     .cx{
         padding: 4vh;
         margin: 1vh;
